@@ -49,10 +49,8 @@
 ⚙️ Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img height="40" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-<p align="left">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI style="margin-left: 4px;" />
+  <img height="48" src="https://docs.n8n.io/favicon.ico" alt="n8n" />
+  <img height="48" src="https://mintlify.s3-us-west-1.amazonaws.com/anthropic/_generated/favicon/apple-touch-icon.png?v=3" alt="Claude AI" />
 </p>
 
 ---
