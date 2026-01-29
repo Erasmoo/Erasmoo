@@ -54,7 +54,7 @@
 <h3>⚙️ Herramientas</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" />
+  <img height="48" src="https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png" alt="n8n" />
 </p>
 ---
 
