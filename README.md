@@ -30,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind,vite" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" />
   <img height="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" />
 </p>
 
