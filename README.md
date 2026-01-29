@@ -20,42 +20,34 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 💻 Lenguajes
+💻 Lenguajes
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,cs,python,js,ts" />
 </p>
-
-### 🌐 Frontend
+🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind,vite" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" />
 </p>
-<p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" />
-</p>
-
-### 🧩 Backend
+🧩 Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,dotnet,flask,supabase" />
 </p>
-
-### 🗄️ Bases de Datos
+🗄️ Bases de Datos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
 </p>
-
-### 🖥️ Servidores y DevOps
+🖥️ Servidores y DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,apache,docker" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" />
 </p>
-
-
-### ⚙️ Herramientas
+⚙️ Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" />
+  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/31465045?s=200&v=4" alt="n8n" />
+  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI" />
 </p>
 
 ---
