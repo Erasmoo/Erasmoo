@@ -20,39 +20,43 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-💻 Lenguajes
+<h3>💻 Lenguajes</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,cs,python,js,ts" />
 </p>
-🌐 Frontend
+
+<h3>🌐 Frontend</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind,vite" />
 </p>
 <p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" style="margin-left: 4px;" />
+  <img height="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" />
 </p>
-🧩 Backend
+
+<h3>🧩 Backend</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,dotnet,flask,supabase" />
 </p>
-🗄️ Bases de Datos
+
+<h3>🗄️ Bases de Datos</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
 </p>
-🖥️ Servidores y DevOps
+
+<h3>🖥️ Servidores y DevOps</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,docker" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" />
 </p>
-⚙️ Herramientas
+
+<h3>⚙️ Herramientas</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img height="48" src="https://docs.n8n.io/favicon.ico" alt="n8n" />
-  <img height="48" src="https://mintlify.s3-us-west-1.amazonaws.com/anthropic/_generated/favicon/apple-touch-icon.png?v=3" alt="Claude AI" />
+  <img height="48" src="https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png" alt="n8n" />
+  <img height="48" src="https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fcompany%2Fclaude-color.svg&w=48&q=75" alt="Claude AI" />
 </p>
-
 ---
 
 ## 🚀 Proyectos Destacados
