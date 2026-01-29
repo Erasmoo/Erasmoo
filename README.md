@@ -55,7 +55,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img height="48" src="https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png" alt="n8n" />
-  <img height="48" src="https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fcompany%2Fclaude-color.svg&w=48&q=75" alt="Claude AI" />
 </p>
 ---
 
