@@ -40,17 +40,21 @@
 
 ### 🗄️ Bases de Datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" />
 </p>
 
 ### 🖥️ Servidores y DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,nginx,apache,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apache,docker" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" />
 </p>
+
 
 ### ⚙️ Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" />
 </p>
 
@@ -76,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Erasmoo&color=blueviolet&style=flat-square" />
 </p>
 
 ---
