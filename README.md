@@ -20,6 +20,10 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
+💻 Lenguajes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,cs,python,js,ts" />
+</p>
 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind,vite" />
@@ -45,10 +49,10 @@
 ⚙️ Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img height="40" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 <p align="left">
-  <img height="40" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI style="margin-left: 4px;" />
 </p>
 
 ---
