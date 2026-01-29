@@ -20,14 +20,12 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-💻 Lenguajes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,cs,python,js,ts" />
-</p>
 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind,vite" />
-  <img height="48" width="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" />
+</p>
+<p align="left">
+  <img height="48" src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" style="margin-left: 4px;" />
 </p>
 🧩 Backend
 <p align="left">
@@ -40,14 +38,17 @@
 </p>
 🖥️ Servidores y DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,apache,docker" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" />
 </p>
 ⚙️ Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/31465045?s=200&v=4" alt="n8n" />
-  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI" />
+</p>
+<p align="left">
+  <img height="40" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude AI" />
 </p>
 
 ---
